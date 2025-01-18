@@ -1,0 +1,15 @@
+.images {
+  height: 145px;
+  width: 145p;
+  margin: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.images:hover {
+  /* height: 155px;
+    width: 155px; */
+  transform: scale(1.2);
+  transition: 1s;
+}

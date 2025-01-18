@@ -1,0 +1,36 @@
+# Node.js related (Server and Client)
+/Client/node_modules
+/Server/node_modules
+
+# Logs
+**/logs
+**/*.log
+
+# Environment variables
+/Client/.env
+/Server/.env
+
+# Build outputs
+/Client/build
+/Server/dist
+/Server/out
+
+# Dependency directories
+/Client/.pnp
+/Server/.pnp
+.pnp.js
+
+# Editor-specific
+.vscode
+.idea
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Coverage
+**/coverage
+
+# Cache
+**/.cache
+**/.next
